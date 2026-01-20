@@ -175,8 +175,8 @@ uv run pytest tests/test_color_utils.py
 
 ## 依賴套件
 
-- [Pillow](https://python-pillow.org/) - 圖片處理
-- [Click](https://click.palletsprojects.com/) - CLI 框架
+- [Pillow](https://github.com/python-pillow/Pillow) - 圖片處理
+- [Click](https://github.com/pallets/click/) - CLI 框架
 
 ## License
 
